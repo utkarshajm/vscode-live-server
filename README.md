@@ -98,3 +98,5 @@ A special thanks to [Max Schmitt](https://github.com/mxschmitt), [Joydip Roy](ht
 
 ## LICENSE
 This extension is licensed under the [MIT License](LICENSE)
+
+[![](https://runcode-app-public.s3.amazonaws.com/images/dark_btn.png)](https://runcode.io)
